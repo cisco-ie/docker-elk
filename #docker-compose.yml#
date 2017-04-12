@@ -4,9 +4,75 @@ services:
 
   elasticsearch:
     build: elasticsearch/
-    volumes:
-      - ./elasticsearch/config:/usr/share/elasticsearch/config
-    ports:
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ports:
       - "9200:9200"
       - "9300:9300"
       - "443:443"
