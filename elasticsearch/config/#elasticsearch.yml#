@@ -1,0 +1,3 @@
+watcher.http.proxy.host: http://proxy.esl.cisco.com
+
+watcher.http.proxy.port: 8080
